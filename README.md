@@ -7,14 +7,13 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 My portfolio [https://64a2446c1a33a640c4b26a82--legendary-bunny-f2e682.netlify.app/](https://64a2446c1a33a640c4b26a82--legendary-bunny-f2e682.netlify.app/)
+- 👨‍💻 My [portfolio](https://64a2446c1a33a640c4b26a82--legendary-bunny-f2e682.netlify.app/)
 
 - 💬 Ask me about **React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **mehedievo@gmail.com**
 
-- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1C36rycOma-4Xwl42BEGCV_YpIkc2PnaT/view?usp=sharing](https://drive.google.com/file/d/1G1WvTuhcqAc83-oihfM247jDHoq2hSqy/view?usp=drive_link))
-
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1G1WvTuhcqAc83-oihfM247jDHoq2hSqy/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehedi-hasan-026372278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi hasan" height="30" width="40" /></a>
