@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mehedievo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C36rycOma-4Xwl42BEGCV_YpIkc2PnaT/view?usp=sharing](https://drive.google.com/file/d/1C36rycOma-4Xwl42BEGCV_YpIkc2PnaT/view?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1C36rycOma-4Xwl42BEGCV_YpIkc2PnaT/view?usp=sharing](https://drive.google.com/file/d/1G1WvTuhcqAc83-oihfM247jDHoq2hSqy/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
